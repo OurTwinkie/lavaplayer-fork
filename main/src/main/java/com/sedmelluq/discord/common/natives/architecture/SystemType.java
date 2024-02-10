@@ -1,6 +1,7 @@
-package com.sedmelluq.lava.common.natives.architecture;
+package com.sedmelluq.discord.common.natives.architecture;
 
-import com.sedmelluq.lava.common.natives.NativeLibraryProperties;
+import com.sedmelluq.discord.common.natives.NativeLibraryProperties;
+
 import java.util.Optional;
 
 public class SystemType {

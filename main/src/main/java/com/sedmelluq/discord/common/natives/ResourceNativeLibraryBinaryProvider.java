@@ -1,7 +1,8 @@
-package com.sedmelluq.lava.common.natives;
+package com.sedmelluq.discord.common.natives;
 
-import com.sedmelluq.lava.common.natives.architecture.SystemType;
 import java.io.InputStream;
+
+import com.sedmelluq.discord.common.natives.architecture.SystemType;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

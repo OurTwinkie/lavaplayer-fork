@@ -1,6 +1,5 @@
-package com.sedmelluq.lava.common.natives;
+package com.sedmelluq.discord.common.natives;
 
-import com.sedmelluq.lava.common.natives.architecture.SystemType;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
@@ -10,6 +9,8 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.function.Predicate;
+
+import com.sedmelluq.discord.common.natives.architecture.SystemType;
 import org.apache.commons.io.IOUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
